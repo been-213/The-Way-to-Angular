@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "The-Way-to-Angualr"
+    }
+  },
+  "defaultProject": "The-Way-to-Angualr",
+  "cli": {
+    "analytics": "fe1085a0-10c8-4ce2-a404-1f87938f8a8d"
+  }
 }
